@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoo", "Zoo\Zoo.csproj", "{DDAFF2E5-296C-4914-AF87-13BBA5990AF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooUnits", "ZooUnits\ZooUnits.csproj", "{E2D7CA8B-271A-4083-A037-DC2FB88DAD5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDAFF2E5-296C-4914-AF87-13BBA5990AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDAFF2E5-296C-4914-AF87-13BBA5990AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDAFF2E5-296C-4914-AF87-13BBA5990AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDAFF2E5-296C-4914-AF87-13BBA5990AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2D7CA8B-271A-4083-A037-DC2FB88DAD5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2D7CA8B-271A-4083-A037-DC2FB88DAD5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2D7CA8B-271A-4083-A037-DC2FB88DAD5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2D7CA8B-271A-4083-A037-DC2FB88DAD5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
