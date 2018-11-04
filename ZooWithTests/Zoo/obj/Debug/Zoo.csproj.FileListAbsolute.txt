@@ -1,0 +1,8 @@
+C:\Users\vs\Documents\Lab\ООП\ООП-2\Zoo\Zoo\bin\Debug\Zoo.exe.config
+C:\Users\vs\Documents\Lab\ООП\ООП-2\Zoo\Zoo\bin\Debug\Zoo.exe
+C:\Users\vs\Documents\Lab\ООП\ООП-2\Zoo\Zoo\bin\Debug\Zoo.pdb
+C:\Users\vs\Documents\Lab\ООП\ООП-2\Zoo\Zoo\bin\Debug\ZooUnits.dll
+C:\Users\vs\Documents\Lab\ООП\ООП-2\Zoo\Zoo\bin\Debug\ZooUnits.pdb
+C:\Users\vs\Documents\Lab\ООП\ООП-2\Zoo\Zoo\obj\Debug\Zoo.csprojResolveAssemblyReference.cache
+C:\Users\vs\Documents\Lab\ООП\ООП-2\Zoo\Zoo\obj\Debug\Zoo.exe
+C:\Users\vs\Documents\Lab\ООП\ООП-2\Zoo\Zoo\obj\Debug\Zoo.pdb

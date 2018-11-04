@@ -1,0 +1,5 @@
+C:\Users\vs\Documents\Lab\ООП\ООП-2\Zoo\ZooUnits\bin\Debug\ZooUnits.dll
+C:\Users\vs\Documents\Lab\ООП\ООП-2\Zoo\ZooUnits\bin\Debug\ZooUnits.pdb
+C:\Users\vs\Documents\Lab\ООП\ООП-2\Zoo\ZooUnits\obj\Debug\ZooUnits.dll
+C:\Users\vs\Documents\Lab\ООП\ООП-2\Zoo\ZooUnits\obj\Debug\ZooUnits.pdb
+C:\Users\vs\Documents\Lab\ООП\ООП-2\Zoo\ZooUnits\obj\Debug\ZooUnits.csprojResolveAssemblyReference.cache
